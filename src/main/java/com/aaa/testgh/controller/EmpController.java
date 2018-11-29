@@ -9,5 +9,6 @@ package com.aaa.testgh.controller;
 public class EmpController {
     public static void main(String[] args) {
         System.out.println("成功！");
+        System.out.println("111111");
     }
 }
